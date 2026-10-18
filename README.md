@@ -19,3 +19,7 @@ git clone https://github.com/Deniss177/latviska-izteiksme ~/.claude/skills/latvi
 ```
 
 Vai vienkārši palūdz Claude padarīt tekstu dabiskāku vai latviskāku.
+
+## Licence
+
+MIT. Sk. [LICENSE](LICENSE).
